@@ -85,7 +85,7 @@ npm start
 
 ## 🔓 Licencija
 
-MIT-licencija. Projekt je svobodny za ispolzovanje, prilagodženje i doprinos.
+Apache-2.0. Projekt je svobodny za ispolzovanje, prilagodženje i doprinos.
 
 —
 S ljubovju, za vsih Slovanov 🌍

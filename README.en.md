@@ -76,7 +76,7 @@ npx mowascript <command>
 
 ## 🔓 License
 
-MIT License. This project is free to use, modify, and contribute to.
+Apache-2.0. This project is free to use, modify, and contribute to.
 
 —
 Made with love for all Slavic people 🌍
