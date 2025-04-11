@@ -57,7 +57,7 @@ MowaJS jest transpiler, ktory da vam možnost pisati kod s ukrajinskym, belarusk
 
 ## 🚀 Status projekta
 
-- [x] Podpora osnovnyh konstrukcij (`ako`, `inako`, `dokud`, `funkcija`, `govori`)
+- [x] Podpora osnovnyh konstrukcij (`ako`, `inako`, `poka`, `funkcija`, `govori`)
 - [x] Kompilacija v JavaScript
 - [x] npm-paket `mowa`
 - [ ] Podpora vseh slavjanskyh dialektov
