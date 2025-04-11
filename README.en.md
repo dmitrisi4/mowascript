@@ -81,3 +81,7 @@ Apache-2.0. This project is free to use, modify, and contribute to.
 —
 Made with love for all Slavic people 🌍
 
+
+- Telegram: [@rio_de_sich](https://t.me/rio_de_sich)
+- [GitHub Issues](https://github.com/dmitrisi4/mowascript/issues) — za bagy i funkcije
+- [Pull Requests](https://github.com/dmitrisi4/mowascript/pulls) — za izměny

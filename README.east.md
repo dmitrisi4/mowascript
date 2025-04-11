@@ -131,3 +131,7 @@ console.log("Прывітанне, " + імя + "!");
 ---
 
 --- 🌾
+
+- Telegram: [@rio_de_sich](https://t.me/rio_de_sich)
+- [GitHub Issues](https://github.com/dmitrisi4/mowascript/issues) — za bagy i funkcije
+- [Pull Requests](https://github.com/dmitrisi4/mowascript/pulls) — za izměny

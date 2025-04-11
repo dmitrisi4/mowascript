@@ -85,9 +85,9 @@ node bin/mowa.js build
 
 ## 📬 Зв’язок
 
-- Telegram: [@твій_нік](https://t.me/твій_нік)
-- GitHub Issues — для багів та фіч
-- Pull Requests — для змін
+- Telegram: [@rio_de_sich](https://t.me/rio_de_sich)
+- [GitHub Issues](https://github.com/dmitrisi4/mowascript/issues) — для багів та фіч
+- [Pull Requests](https://github.com/dmitrisi4/mowascript/pulls) — для змін
 
 ---
 

@@ -84,9 +84,9 @@ node bin/mowa.js build
 
 ## 📬 Contact
 
-- Telegram: [@your_username](https://t.me/your_username)
-- GitHub Issues — for bug reports and feature requests
-- Pull Requests — to submit code improvements
+- Telegram: [@rio_de_sich](https://t.me/rio_de_sich)
+- [GitHub Issues](https://github.com/dmitrisi4/mowascript/issues) — for bug reports and feature requests
+- [Pull Requests](https://github.com/dmitrisi4/mowascript/pulls) — to submit code improvements
 
 ---
 
