@@ -1,0 +1,25 @@
+{
+  "name": "mowascript",
+  "version": "1.0.0",
+  "description": "MowaScript language implementation",
+  "type": "module",
+  "bin": {
+    "mowa": "./bin/mowa.js"
+  },
+  "keywords": [
+    "transpiler",
+    "javascript",
+    "slavic",
+    "language"
+  ],
+  "author": "Dimitri Sichkar",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chokidar": "^4.0.3"
+  },
+  "scripts": {
+    "build": "mowa build",
+    "start": "mowa run src/main/main.mowa",
+    "watch": "mowa watch"
+  }
+}
